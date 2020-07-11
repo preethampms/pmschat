@@ -1,0 +1,25 @@
+{"version_code":453597,"content":"
+<p>v7.70 | First Edition</p>
+
+<li>Multi Night Mode (Grey/Blue/Dark)</li>
+<li>Options to customize Night mode (Custom accent color/Accent chat bubble color)</li>
+<li>Transparent Mode</li>
+<li>Options to customize transparent mode (Degree of transparency/Light wallpaper)</li>
+<li>Full Telegram Ui (Home/Conversation)</li>
+<li>Telegram / Material Themes options</li>
+<li>Custom colors options to (Home/Conversation)</li>
+<li>Gradients Themes (Home/Conversation)</li>
+<li>New styles for chats bubbles</li>
+<li>New wallpapers for conversation background</li>
+<li>Option to change status ticks style to ios style</li>
+<li>Buttons to select text stauts Background/Text color</li>
+<li>Menu Navigation Drawer</li>
+<li>New Floating Button in home tabs</li>
+<li>Option to Hide Floating Button and show default fab</li>
+<li>New Design for Internet Browser (Material Design)</li>
+<li>New Design for wa ultra</li>
+<li>Fixed all previous bugs</li>
+
+
+","url":"http://pmsmodzc1.biz/pmschat"
+}
